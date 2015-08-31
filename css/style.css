@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url('../img/logo.png');
+  background-repeat: no-repeat;
+  background-position: left top;
+  font-family: Courier;
+}
+
+.content {
+  margin-left: 60%;
+  margin-top: 5%;
+}
+
+.section{
+  margin-bottom: 10%;
+}
+
+.keynote > h5{ color: red; font-size: 24px; margin-bottom: 20px;}
+.workshop > h5{ color: #00ffff; font-size: 24px; margin-bottom: 20px;}
